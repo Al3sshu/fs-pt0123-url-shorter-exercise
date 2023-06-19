@@ -1,0 +1,31 @@
+.login{
+  display:flex;
+  flex-direction: column;
+  border: 1px solid black;
+  justify-content: center;
+  width: 200px;
+  height: 250px;
+  
+}
+
+.create{
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+  
+}
+
+.register{
+  display:flex;
+  justify-content: center;
+}
+
+.lig{
+  display:flex;
+  justify-content: center;
+  padding: 5px;
+}
